@@ -1,0 +1,38 @@
+.container {
+    width: 80%;
+    margin: 20px auto;
+    text-align: center;
+}
+h2 {
+    font-family: 'pacifico';
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    padding: 5px 0 10px 0;
+    font-size: 40px;
+}
+.quote {
+    border: 1px solid #000;
+    padding: 10px;
+}
+p {
+        text-align: justify;
+
+}
+#text {        
+    font-family: 'Eczar';
+}
+#author {
+    float: right;
+    font-family: 'dancing script';
+    font-size: 25px;
+}
+button {
+    margin: 10px;
+}
+#next {
+    font-size: 30px;
+    padding: 1px 16px;
+}
+#tweat {
+    font-size: 30px;
+}
